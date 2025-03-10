@@ -7,7 +7,7 @@ Cold email generator for services company using groq, langchain and streamlit. I
 - Nike needs a Principal Software Engineer and is spending time and resources in the hiring process, on boarding, training etc
 - You are a founder of a Software Development company that provides a dedicated software development engineer to Nike. So, you can reach out to reach out to Nike via a cold email.
 
-![img.png](imgs/img.png)
+![img.png](imgs/img.jpg)
 
 ## Architecture Diagram
 
